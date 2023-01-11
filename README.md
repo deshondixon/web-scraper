@@ -24,7 +24,15 @@
 
 ## Setup
 
+- Create repo on desktop
 
+- Create virtual environment: python3.11 -m venv .venv
+
+- Activate environment: source .venv/bin/activate
+
+- Install requests: pip install requests
+
+- Install beautifulsoup: pip install beautifulsoup4
 
 ## Sources
 
