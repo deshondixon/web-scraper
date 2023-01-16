@@ -38,4 +38,5 @@
 
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
+Examined classmate Oliver Spier code to understand the logic of this assignment.
 
